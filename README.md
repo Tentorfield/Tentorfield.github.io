@@ -13,5 +13,5 @@ I'm a recent graduate at the University of California Riverside majoring in Busi
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://user-images.githubusercontent.com/58090168/179618510-88a5d292-7dec-46d3-a52e-7aaf9c1f1765.png))
+![This is an image](https://user-images.githubusercontent.com/58090168/179618510-88a5d292-7dec-46d3-a52e-7aaf9c1f1765.png)
 
