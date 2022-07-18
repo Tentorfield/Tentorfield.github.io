@@ -1,17 +1,14 @@
-# The largest heading
-## The second largest heading
-###### The smallest heading
+# Hello, I'm Huy Ngo
 
-## Horizontal Rules
-___
+I'm a recent graduate at the University of California Riverside majoring in Business Economics and minoring in Computer Science. I have served for one year in the Riverside area as a University East-Side Community Collaborative (UECC) Americorps tutor. I'm passionate about GIS, Business, and Data Analytics, and actively pursuing related career pathways. In the year 2020, have managed to earn a Google IT Support Professional Certification through Coursera. I used to work as an administrative assistant for the Department of Electrical and Computer Engineering at the University of California Riverside.
+Connect with me on 
 
-# Emphasis
+## Socials
+- [Linkedin](https://www.linkedin.com/in/huy-ngo-043206147/).
+- [Github](https://github.com/Tentorfield).
+- [Instagram](https://www.instagram.com/huytngo00/).
 
-**This is bold text**
-*This text is italicized*
-~~This was mistaken text~~
-**This text is _extremely_ important**
-***All this text is important***
+## Credits
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
@@ -19,12 +16,3 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-## Lists 
-
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-
-1. First list item
-   - First nested list item
-     - Second nested list item
